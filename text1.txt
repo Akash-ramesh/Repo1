@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is ECA7-AEAB
+
+ Directory of C:\Users\admin\Desktop\MyProject
+
+10-11-2020  10:56    <DIR>          .
+10-11-2020  10:56    <DIR>          ..
+10-11-2020  10:56                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  161,867,411,456 bytes free
